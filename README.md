@@ -62,9 +62,7 @@ Available checks: `npm run lint`, `npm run typecheck`, `npm test`, `npm run buil
 |---|---|---|
 | Francis Gabriel P. Austria | BS Computer Science | West Visayas State University (WVSU) |
 | Om Shanti Limpin | BS Computer Science | West Visayas State University (WVSU) |
-| Jorge Maverick Acidre | BS Entertainment and Multimedia Computing | West Visayas State University (WVSU) |
 | Carlos John Aristoki | BS Computer Science | West Visayas State University (WVSU) |
-| Samnuel Sarino | BS Information Technology | University of San Carlos (USC) |
 
 ## License
 
